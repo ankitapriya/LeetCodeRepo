@@ -1,4 +1,4 @@
-package solutions;
+package solutions.linkListSolutions;
 
 import utility.ListNode;
 
